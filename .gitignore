@@ -3,3 +3,4 @@ pretrained_models/
 model_checkpoints/
 uploads/
 output/
+.idea/

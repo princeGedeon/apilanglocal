@@ -30,4 +30,4 @@ pip install -r requirements.txt
 uvicorn main:app --host 0.0.0.0 --port 9500
 ```
 
-Vous pouvez ensuite accéder à la documentation en utilisant votre navigateur web à l'adresse suivante : `http://127.0.0.1:9500`.
+Vous pouvez ensuite accéder à la documentation en utilisant votre navigateur web à l'adresse suivante : `http://127.0.0.1:9500/docs`.
